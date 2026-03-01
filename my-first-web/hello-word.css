@@ -1,0 +1,7 @@
+body {
+  /*the words like colore is constante*/
+  font-family: system-ui; /*font-family نوع الخط*/
+  background: #ffc0cb;/*لون الخلفية*/
+  color: black ; /*لون الخلفية*/
+  text-align: center;/*مكان النص */
+}
